@@ -1,6 +1,4 @@
 
-
-
 # PodCast
 
 ![Preview-Screens](https://github.com/twinik/PodCast/blob/master/PUXA-R10!.png)
