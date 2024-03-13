@@ -1,9 +1,9 @@
 
 
 
-# MindCast
+# PodCast
 
-![Preview-Screens](https://github.com/twinik/mindCast/blob/master/PUXA-R10!.png)
+![Preview-Screens](https://github.com/twinik/PodCast/blob/master/PUXA-R10!.png)
 
 If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1rXFlogxaT5E0pthrrLhF1D_wOVbSHwhD).
 
@@ -96,16 +96,16 @@ iOS .ipa installer: Soon!
 
 To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
 
-Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server [here](https://github.com/twinik/mindcast-server).
+Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server [here](https://github.com/twinik/PodCast-server).
 
 ### Installing
 
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/twinik/mindCast
+$ git clone https://github.com/twinik/PodCast
 
-$ cd mindCast
+$ cd PodCast
 ```
 
 **Installing dependencies**
@@ -122,9 +122,9 @@ $ npm install
 
 ### Connecting the App with the Server
 
-1 - Follow the instructions on the [mindcast-server](https://github.com/twinik/mindcast-server) to have the server up and running on your machine.
+1 - Follow the instructions on the [PodCast-server](https://github.com/twinik/PodCast-server) to have the server up and running on your machine.
 
-2 - With the server up and running, go to the [/.env.development](https://github.com/twinik/mindCast/blob/master/.env.development) file and edit the SERVER_URL value for the IP of your machine (you can have some issues with _localhost_ if you're running on an android physical device, but you can use localhost safely on iOS).
+2 - With the server up and running, go to the [/.env.development](https://github.com/twinik/PodCast/blob/master/.env.development) file and edit the SERVER_URL value for the IP of your machine (you can have some issues with _localhost_ if you're running on an android physical device, but you can use localhost safely on iOS).
 
 It should looks like this:
 
