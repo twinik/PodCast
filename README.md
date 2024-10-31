@@ -1,7 +1,7 @@
 
 # PodCast
 
-![Preview-Screens](https://github.com/twinik/PodCast/blob/master/PUXA-R10!.png)
+![Preview-Screens](https://github.com/twinik/PodCast/blob/main/PUXA-R10!.png)
 
 If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1rXFlogxaT5E0pthrrLhF1D_wOVbSHwhD).
 
